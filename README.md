@@ -2,7 +2,7 @@
 Implementation summary of research works about vision-oriented semantic communication system.
 
 ## 2023
-[TWC'23] [Predictive and Adaptive Deep Coding for Wireless Image Transmission in Semantic Communication] (https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication)
+[TWC'23] [Predictive and Adaptive Deep Coding for Wireless Image Transmission in Semantic Communication](https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication)
 
 
 
@@ -19,7 +19,7 @@ Implementation summary of research works about vision-oriented semantic communic
 
 [JSAC'21] [A Lite Distributed Semantic Communication System for Internet of Things](https://github.com/HQXie0910/Lite-DeepSC)
 
-[IEEE WCL'21] [Semantic Communication with Adaptive Universal Transformer] (https://github.com/qqy2021/semantic-communication-)
+[IEEE WCL'21] [Semantic Communication with Adaptive Universal Transformer](https://github.com/qqy2021/semantic-communication-)
 
 ## Before 2021
 [Arxiv'19] [DeepJSCC-f: Deep Joint Source-Channel Coding of Images with Feedback](https://github.com/kurka/deepJSCC-feedback)
