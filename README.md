@@ -3,7 +3,7 @@ Implementation summary of research works about vision-oriented semantic communic
 
 ## 2023
 [TWC'23] [Predictive and Adaptive Deep Coding for Wireless Image Transmission in Semantic Communication](https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication)
-
+[TWC'23] [Robust Semantic Communications with Masked VQ-VAE Enabled Codebook](https://github.com/hqyyqh888/RobustSemanComm)
 
 
 ## 2022
