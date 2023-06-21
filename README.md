@@ -8,6 +8,10 @@ Implementation summary of research works about vision-oriented semantic communic
 
 [TWC'23] [Robust Semantic Communications with Masked VQ-VAE Enabled Codebook](https://github.com/hqyyqh888/RobustSemanComm)
 
+[IEEE WiMob'23] [Semantically Optimized End-to-End Learning for Positional Telemetry in Vehicular Scenarios](https://github.com/neelabhro/Deep-Learning-based-Wireless-Communications)
+
+[Arxiv'23] [SINFONY: Semantic INFOrmation traNsmission and recoverY](https://github.com/ant-uni-bremen/SINFONY)
+
 
 ## 2022
 [ICASSP'22] [Deep Joint Source-Channel Coding for Wireless Image Transmission with Adaptive Rate Control.](https://github.com/mingyuyng/Dynamic_JSCC)
